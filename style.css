@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(13, 13, 13);
+  
+}
+
+.navbar{
+    display:flex;
+    justify-content: center ;
+    align-items: end;
+
+
+}
+
+.navbar>h1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+}
+
+.introduction{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 500px;
+    width: 100%;
+    
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
